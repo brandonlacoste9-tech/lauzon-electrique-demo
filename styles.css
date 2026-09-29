@@ -187,3 +187,14 @@ footer p{margin-top:8px}
   section{padding:64px 0}
   .contact-map iframe{height:300px}
 }
+
+/* ---- remaker brand DNA overrides (fallback) ---- */
+:root{
+  --amber:#e8930c;
+  --amber-dark:#b56f06;
+  --ink:#1a1a1a;
+  --dark:#1a1a1a;
+  --cream:#faf8f4;
+  --font-head:'Barlow Condensed','Arial Narrow',sans-serif;
+  --font-body:'Barlow','Helvetica Neue',Arial,sans-serif;
+}
